@@ -1,0 +1,14 @@
+en:
+    electric_voltage: 'Electric voltage'
+    electric_current: 'Electric current'
+    phase: Phase
+    reactive_power: 'Reactive power'
+    apparent_power: 'Apparent power'
+    baud_rate: 'Baud Rate'
+    cycle_time: 'Cycle time'
+    time: Time
+    power_factor: 'Power Factor'
+    forward_active_energy: 'Forward Active Energy'
+    reverse_active_energy: 'Reverse Active Energy'
+    forward_reactive_energy: 'Forward Reactive Energy'
+    reverse_reactive_energy: 'Reverse Reactive Energy'

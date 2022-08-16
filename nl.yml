@@ -1,0 +1,14 @@
+nl:
+    electric_voltage: 'Elektrische spanning'
+    electric_current: 'Elektrische stroom'
+    phase: Fase
+    reactive_power: 'Reactief vermogen'
+    apparent_power: 'Schijnbare kracht'
+    baud_rate: Baudrate
+    cycle_time: Cyclustijd
+    time: Tijd
+    power_factor: Krachtfactor
+    forward_active_energy: 'Actieve energie doorsturen'
+    reverse_active_energy: 'Omgekeerde actieve energie'
+    forward_reactive_energy: 'Voorwaartse reactieve energie'
+    reverse_reactive_energy: 'Omgekeerde reactieve energie'

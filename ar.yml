@@ -1,0 +1,14 @@
+ar:
+    electric_voltage: 'الجهد الكهربائي'
+    electric_current: 'التيار الكهربائي'
+    phase: مرحلة
+    reactive_power: 'قوة رد الفعل'
+    apparent_power: 'القوة الظاهرة'
+    baud_rate: 'معدل الباود'
+    cycle_time: 'دورة الزمن'
+    time: زمن
+    power_factor: 'عامل القوى'
+    forward_active_energy: 'طاقة نشطة إلى الأمام'
+    reverse_active_energy: 'عكس الطاقة النشطة'
+    forward_reactive_energy: 'الطاقة التفاعلية إلى الأمام'
+    reverse_reactive_energy: 'الطاقة التفاعلية العكسية'

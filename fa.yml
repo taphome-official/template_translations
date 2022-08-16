@@ -1,0 +1,14 @@
+fa:
+    electric_voltage: 'ولتاژ برق'
+    electric_current: 'جریان الکتریسیته'
+    phase: فاز
+    reactive_power: 'توان راکتیو'
+    apparent_power: 'توان ظاهری'
+    baud_rate: 'نرخ باد'
+    cycle_time: 'زمان چرخه'
+    time: زمان
+    power_factor: 'ضریب قدرت'
+    forward_active_energy: 'انرژی فعال رو به جلو'
+    reverse_active_energy: 'انرژی فعال معکوس'
+    forward_reactive_energy: 'انرژی واکنش پذیر رو به جلو'
+    reverse_reactive_energy: 'انرژی راکتیو معکوس'

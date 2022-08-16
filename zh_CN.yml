@@ -1,0 +1,14 @@
+zh_CN:
+    electric_voltage: 电压
+    electric_current: 电流
+    phase: 阶段
+    reactive_power: 无功功率
+    apparent_power: 视在功率
+    baud_rate: 波特率
+    cycle_time: 周期
+    time: 时间
+    power_factor: 功率因数
+    forward_active_energy: 正向有功电能
+    reverse_active_energy: 反向有功电能
+    forward_reactive_energy: 正向无功
+    reverse_reactive_energy: 逆反应能

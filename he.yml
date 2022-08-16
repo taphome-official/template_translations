@@ -1,0 +1,14 @@
+he:
+    electric_voltage: 'מתח חשמלי'
+    electric_current: 'זרם חשמלי'
+    phase: שלב
+    reactive_power: 'כוח תגובתי'
+    apparent_power: 'כוח לכאורה'
+    baud_rate: 'קצב שידור'
+    cycle_time: 'זמן מחזור'
+    time: זְמַן
+    power_factor: 'גורם כוח'
+    forward_active_energy: 'קדימה אנרגיה פעילה'
+    reverse_active_energy: 'אנרגיה פעילה הפוכה'
+    forward_reactive_energy: 'אנרגיה תגובתית קדימה'
+    reverse_reactive_energy: 'אנרגיה תגובתית הפוכה'

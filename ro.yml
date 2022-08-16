@@ -1,0 +1,14 @@
+ro:
+    electric_voltage: 'Tensiune electrică'
+    electric_current: 'Curent electric'
+    phase: Fază
+    reactive_power: 'Putere reactivă'
+    apparent_power: 'Putere aparentă'
+    baud_rate: 'Baud Rate'
+    cycle_time: 'Durata ciclului'
+    time: Timp
+    power_factor: 'Factor de putere'
+    forward_active_energy: 'Energie activă înainte'
+    reverse_active_energy: 'Energie activă inversă'
+    forward_reactive_energy: 'Energie reactivă directă'
+    reverse_reactive_energy: 'Energie reactivă inversă'

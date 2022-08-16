@@ -1,0 +1,14 @@
+cs:
+    electric_voltage: 'Elektrické napětí'
+    electric_current: 'Elektrický proud'
+    phase: Fáze
+    reactive_power: 'Reaktivní síla'
+    apparent_power: 'Zdánlivá síla'
+    baud_rate: 'Přenosová rychlost'
+    cycle_time: 'Doba cyklu'
+    time: Čas
+    power_factor: 'Faktor síly'
+    forward_active_energy: 'Dopředná aktivní energie'
+    reverse_active_energy: 'Reverzní aktivní energie'
+    forward_reactive_energy: 'Dopředná reaktivní energie'
+    reverse_reactive_energy: 'Reverzní reaktivní energie'

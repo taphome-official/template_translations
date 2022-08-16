@@ -1,0 +1,14 @@
+hu:
+    electric_voltage: 'Elektromos feszültség'
+    electric_current: 'Elektromos áram'
+    phase: Fázis
+    reactive_power: 'Meddő teljesítmény'
+    apparent_power: 'Látszólagos hatalom'
+    baud_rate: 'Átviteli sebesség'
+    cycle_time: Ciklusidő
+    time: Idő
+    power_factor: Teljesítménytényező
+    forward_active_energy: 'Aktív energia előre'
+    reverse_active_energy: 'Fordított aktív energia'
+    forward_reactive_energy: 'Előre irányuló reaktív energia'
+    reverse_reactive_energy: 'Fordított reaktív energia'

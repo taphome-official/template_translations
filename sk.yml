@@ -1,0 +1,14 @@
+sk:
+    electric_voltage: 'Elektrické napätie'
+    electric_current: 'Elektrický prúd'
+    phase: Fáza
+    reactive_power: 'Jalový výkon'
+    apparent_power: 'Zdanlivý výkon'
+    baud_rate: 'Prenosová rýchlosť'
+    cycle_time: 'Čas cyklu'
+    time: Čas
+    power_factor: Účinník
+    forward_active_energy: 'Činná energia'
+    reverse_active_energy: 'Reverzná činná energia'
+    forward_reactive_energy: 'Jalová energia'
+    reverse_reactive_energy: 'Reverzná jalová energia'

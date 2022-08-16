@@ -1,0 +1,14 @@
+pt_BR:
+    electric_voltage: 'Voltagem elétrica'
+    electric_current: 'Corrente elétrica'
+    phase: Estágio
+    reactive_power: 'Potência reativa'
+    apparent_power: 'Poder aparente'
+    baud_rate: 'Taxa de transmissão'
+    cycle_time: 'Tempo de ciclo'
+    time: Tempo
+    power_factor: 'Fator de potência'
+    forward_active_energy: 'Energia ativa para frente'
+    reverse_active_energy: 'Energia ativa reversa'
+    forward_reactive_energy: 'Energia reativa direta'
+    reverse_reactive_energy: 'Energia reativa reversa'

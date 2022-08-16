@@ -1,0 +1,14 @@
+uk:
+    electric_voltage: 'Електрична напруга'
+    electric_current: 'Електричний струм'
+    phase: Фаза
+    reactive_power: 'Реактивна потужність'
+    apparent_power: 'Видима потужність'
+    baud_rate: 'Швидкість передачі даних'
+    cycle_time: 'Час циклу'
+    time: час
+    power_factor: 'Фактор потужності'
+    forward_active_energy: 'Активна енергія вперед'
+    reverse_active_energy: 'Зворотна активна енергія'
+    forward_reactive_energy: 'Пряма реактивна енергія'
+    reverse_reactive_energy: 'Зворотна реактивна енергія'

@@ -1,0 +1,14 @@
+el:
+    electric_voltage: 'Ηλεκτρική τάση'
+    electric_current: 'Ηλεκτρικό ρεύμα'
+    phase: Φάση
+    reactive_power: 'Δύναμη αντίδρασης'
+    apparent_power: 'Προφανής ισχύς'
+    baud_rate: 'Ρυθμός Baud'
+    cycle_time: 'Χρόνος κύκλου'
+    time: χρόνος
+    power_factor: 'Συντελεστής ισχύος'
+    forward_active_energy: 'Εμπρός Ενεργή Ενέργεια'
+    reverse_active_energy: 'Αντίστροφη Ενεργή Ενέργεια'
+    forward_reactive_energy: 'Προώθηση αντιδραστικής ενέργειας'
+    reverse_reactive_energy: 'Αντίστροφη αντιδραστική ενέργεια'

@@ -1,0 +1,14 @@
+pl:
+    electric_voltage: 'Napięcie elektryczne'
+    electric_current: 'Prąd elektryczny'
+    phase: Faza
+    reactive_power: 'Reaktywna moc'
+    apparent_power: 'Moc pozorna'
+    baud_rate: 'Szybkość transmisji'
+    cycle_time: 'Czas cyklu'
+    time: Czas
+    power_factor: 'Współczynnik mocy'
+    forward_active_energy: 'Energia czynna do przodu'
+    reverse_active_energy: 'Odwrócona energia czynna'
+    forward_reactive_energy: 'Energia bierna w przód'
+    reverse_reactive_energy: 'Odwrócona energia bierna'

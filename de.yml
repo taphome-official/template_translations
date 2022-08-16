@@ -1,0 +1,14 @@
+de:
+    electric_voltage: 'Elektrische Spannung'
+    electric_current: 'Elektrischer Strom'
+    phase: Phase
+    reactive_power: Blindleistung
+    apparent_power: Scheinleistung
+    baud_rate: Baudrate
+    cycle_time: Zykluszeit
+    time: Zeit
+    power_factor: Leistungsfaktor
+    forward_active_energy: 'Aktive Energie weiterleiten'
+    reverse_active_energy: 'Aktive Energie umkehren'
+    forward_reactive_energy: 'Vorwärtsreaktive Energie'
+    reverse_reactive_energy: Umkehrblindenergie

@@ -1,0 +1,14 @@
+sl:
+    electric_voltage: 'Električna napetost'
+    electric_current: 'Električni tok'
+    phase: Faza
+    reactive_power: 'Reaktivna moč'
+    apparent_power: 'Navidezna moč'
+    baud_rate: 'Hitrost prenosa'
+    cycle_time: 'Čas za kolesarjenje'
+    time: Čas
+    power_factor: 'Faktor moči'
+    forward_active_energy: 'Aktivna energija naprej'
+    reverse_active_energy: 'Povratna aktivna energija'
+    forward_reactive_energy: 'Naprej jalova energija'
+    reverse_reactive_energy: 'Povratna jalova energija'
