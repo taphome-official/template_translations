@@ -16,3 +16,6 @@ en:
     total_reactive_energy: 'Total Reactive Energy'
     total_energy: 'Total Energy'
     grid_frequency: 'Grid Frequency'
+    set_tarriffs: 'Set Tariffs'
+    hour: 'Hour'
+    minutes: 'Minutes'
