@@ -12,3 +12,7 @@ hr:
     reverse_active_energy: 'Obrnuta aktivna energija'
     forward_reactive_energy: 'Naprijed jalova energija'
     reverse_reactive_energy: 'Reverzna reaktivna energija'
+    tariff: Tarifa
+    total_reactive_energy: 'Ukupna reaktivna energija'
+    total_energy: 'Ukupna energija'
+    grid_frequency: 'Frekvencija mreže'

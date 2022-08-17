@@ -12,3 +12,7 @@ ru:
     reverse_active_energy: 'Обратная активная энергия'
     forward_reactive_energy: 'Прямая реактивная энергия'
     reverse_reactive_energy: 'Обратная реактивная энергия'
+    tariff: Тариф
+    total_reactive_energy: 'Общая реактивная энергия'
+    total_energy: 'Общая энергия'
+    grid_frequency: 'Частота сети'

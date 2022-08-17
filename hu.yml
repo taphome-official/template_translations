@@ -12,3 +12,7 @@ hu:
     reverse_active_energy: 'Fordított aktív energia'
     forward_reactive_energy: 'Előre irányuló reaktív energia'
     reverse_reactive_energy: 'Fordított reaktív energia'
+    tariff: Tarifa
+    total_reactive_energy: 'Teljes reaktív energia'
+    total_energy: 'Teljes energia'
+    grid_frequency: 'Rács Frekvencia'

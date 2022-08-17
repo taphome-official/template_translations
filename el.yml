@@ -12,3 +12,7 @@ el:
     reverse_active_energy: 'Αντίστροφη Ενεργή Ενέργεια'
     forward_reactive_energy: 'Προώθηση αντιδραστικής ενέργειας'
     reverse_reactive_energy: 'Αντίστροφη αντιδραστική ενέργεια'
+    tariff: Δασμολόγιο
+    total_reactive_energy: 'Ολική αντιδραστική ενέργεια'
+    total_energy: 'Ολική Ενέργεια'
+    grid_frequency: 'Συχνότητα Πλέγματος'

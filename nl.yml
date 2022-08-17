@@ -12,3 +12,7 @@ nl:
     reverse_active_energy: 'Omgekeerde actieve energie'
     forward_reactive_energy: 'Voorwaartse reactieve energie'
     reverse_reactive_energy: 'Omgekeerde reactieve energie'
+    tariff: Tarief
+    total_reactive_energy: 'Totale reactieve energie'
+    total_energy: 'Totale energie'
+    grid_frequency: 'Netfrequentie:'

@@ -12,3 +12,7 @@ ro:
     reverse_active_energy: 'Energie activă inversă'
     forward_reactive_energy: 'Energie reactivă directă'
     reverse_reactive_energy: 'Energie reactivă inversă'
+    tariff: Tarifar
+    total_reactive_energy: 'Energie reactivă totală'
+    total_energy: 'Energie totală'
+    grid_frequency: 'Frecvența rețelei'

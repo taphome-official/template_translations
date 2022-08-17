@@ -12,3 +12,7 @@ sk:
     reverse_active_energy: 'Reverzná činná energia'
     forward_reactive_energy: 'Jalová energia'
     reverse_reactive_energy: 'Reverzná jalová energia'
+    tariff: Tarifa
+    total_reactive_energy: 'Celková jalová energia'
+    total_energy: 'Celková energia'
+    grid_frequency: 'Frekvencia siete'

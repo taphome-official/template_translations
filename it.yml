@@ -12,3 +12,7 @@ it:
     reverse_active_energy: 'Energia attiva inversa'
     forward_reactive_energy: 'Energia reattiva diretta'
     reverse_reactive_energy: 'Energia reattiva inversa'
+    tariff: Tariffa
+    total_reactive_energy: 'Energia Reattiva Totale'
+    total_energy: 'Energia totale'
+    grid_frequency: 'Frequenza della griglia'

@@ -12,3 +12,7 @@ he:
     reverse_active_energy: 'אנרגיה פעילה הפוכה'
     forward_reactive_energy: 'אנרגיה תגובתית קדימה'
     reverse_reactive_energy: 'אנרגיה תגובתית הפוכה'
+    tariff: תַעֲרִיף
+    total_reactive_energy: 'אנרגיה ריאקטיבית כוללת'
+    total_energy: 'אנרגיה כוללת'
+    grid_frequency: 'תדר רשת'
