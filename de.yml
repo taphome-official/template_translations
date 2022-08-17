@@ -12,3 +12,7 @@ de:
     reverse_active_energy: 'Aktive Energie umkehren'
     forward_reactive_energy: 'Vorwärtsreaktive Energie'
     reverse_reactive_energy: Umkehrblindenergie
+    tariff: Tarif
+    total_reactive_energy: Gesamtblindenergie
+    total_energy: Gesamtenergie
+    grid_frequency: Netzfrequenz

@@ -12,3 +12,7 @@ pl:
     reverse_active_energy: 'Odwrócona energia czynna'
     forward_reactive_energy: 'Energia bierna w przód'
     reverse_reactive_energy: 'Odwrócona energia bierna'
+    tariff: Taryfa
+    total_reactive_energy: 'Całkowita energia bierna'
+    total_energy: 'Całkowita energia'
+    grid_frequency: 'Częstotliwość sieci'

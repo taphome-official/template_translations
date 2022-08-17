@@ -12,3 +12,7 @@ zh_CN:
     reverse_active_energy: 反向有功电能
     forward_reactive_energy: 正向无功
     reverse_reactive_energy: 逆反应能
+    tariff: 关税
+    total_reactive_energy: 总无功能量
+    total_energy: 总能量
+    grid_frequency: 电网频率

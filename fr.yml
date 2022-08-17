@@ -12,3 +12,7 @@ fr:
     reverse_active_energy: 'Énergie active inversée'
     forward_reactive_energy: 'Énergie réactive directe'
     reverse_reactive_energy: 'Énergie réactive inverse'
+    tariff: Tarif
+    total_reactive_energy: 'Énergie réactive totale'
+    total_energy: 'Énergie totale'
+    grid_frequency: 'Fréquence du réseau'

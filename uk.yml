@@ -12,3 +12,7 @@ uk:
     reverse_active_energy: 'Зворотна активна енергія'
     forward_reactive_energy: 'Пряма реактивна енергія'
     reverse_reactive_energy: 'Зворотна реактивна енергія'
+    tariff: Тариф
+    total_reactive_energy: 'Загальна реактивна енергія'
+    total_energy: 'Загальна енергія'
+    grid_frequency: 'Частота сітки'

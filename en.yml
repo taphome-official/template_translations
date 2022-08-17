@@ -12,4 +12,7 @@ en:
     reverse_active_energy: 'Reverse Active Energy'
     forward_reactive_energy: 'Forward Reactive Energy'
     reverse_reactive_energy: 'Reverse Reactive Energy'
-    test: 'Test'
+    tariff: Tariff
+    total_reactive_energy: 'Total Reactive Energy'
+    total_energy: 'Total Energy'
+    grid_frequency: 'Grid Frequency'

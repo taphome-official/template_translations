@@ -12,3 +12,7 @@ fa:
     reverse_active_energy: 'انرژی فعال معکوس'
     forward_reactive_energy: 'انرژی واکنش پذیر رو به جلو'
     reverse_reactive_energy: 'انرژی راکتیو معکوس'
+    tariff: تعرفه
+    total_reactive_energy: 'کل انرژی راکتیو'
+    total_energy: 'انرژی کل'
+    grid_frequency: 'فرکانس شبکه'
