@@ -16,3 +16,6 @@ el:
     total_reactive_energy: 'Ολική αντιδραστική ενέργεια'
     total_energy: 'Ολική Ενέργεια'
     grid_frequency: 'Συχνότητα Πλέγματος'
+    set_tarriffs: 'Καθορισμός τιμολογίων'
+    hour: Ωρα
+    minutes: Λεπτά

@@ -16,3 +16,6 @@ hu:
     total_reactive_energy: 'Teljes reaktív energia'
     total_energy: 'Teljes energia'
     grid_frequency: 'Rács Frekvencia'
+    set_tarriffs: 'Állítsa be a tarifákat'
+    hour: Óra
+    minutes: Percek

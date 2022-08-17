@@ -16,3 +16,6 @@ zh_CN:
     total_reactive_energy: 总无功能量
     total_energy: 总能量
     grid_frequency: 电网频率
+    set_tarriffs: 设定关税
+    hour: 小时
+    minutes: 分钟

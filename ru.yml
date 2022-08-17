@@ -16,3 +16,6 @@ ru:
     total_reactive_energy: 'Общая реактивная энергия'
     total_energy: 'Общая энергия'
     grid_frequency: 'Частота сети'
+    set_tarriffs: 'Установить тарифы'
+    hour: Час
+    minutes: Минуты

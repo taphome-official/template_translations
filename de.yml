@@ -16,3 +16,6 @@ de:
     total_reactive_energy: Gesamtblindenergie
     total_energy: Gesamtenergie
     grid_frequency: Netzfrequenz
+    set_tarriffs: 'Tarife festlegen'
+    hour: Stunde
+    minutes: Protokoll

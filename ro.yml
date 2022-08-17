@@ -16,3 +16,6 @@ ro:
     total_reactive_energy: 'Energie reactivă totală'
     total_energy: 'Energie totală'
     grid_frequency: 'Frecvența rețelei'
+    set_tarriffs: 'Stabiliți tarife'
+    hour: Ora
+    minutes: Minute

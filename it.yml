@@ -16,3 +16,6 @@ it:
     total_reactive_energy: 'Energia Reattiva Totale'
     total_energy: 'Energia totale'
     grid_frequency: 'Frequenza della griglia'
+    set_tarriffs: 'Imposta le tariffe'
+    hour: Ora
+    minutes: Minuti

@@ -16,3 +16,6 @@ sl:
     total_reactive_energy: 'Skupna jalova energija'
     total_energy: 'Skupna energija'
     grid_frequency: 'Mrežna frekvenca'
+    set_tarriffs: 'Nastavite tarife'
+    hour: Ura
+    minutes: minute

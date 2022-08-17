@@ -16,3 +16,6 @@ es:
     total_reactive_energy: 'Energía reactiva total'
     total_energy: 'Energía total'
     grid_frequency: 'Frecuencia de red'
+    set_tarriffs: 'Establecer tarifas'
+    hour: Hora
+    minutes: Minutos
