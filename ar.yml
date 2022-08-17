@@ -16,3 +16,6 @@ ar:
     total_reactive_energy: 'إجمالي الطاقة التفاعلية'
     total_energy: 'إجمالي الطاقة'
     grid_frequency: 'تردد الشبكة'
+    set_tarriffs: 'تحديد التعريفات'
+    hour: ساعة
+    minutes: الدقائق

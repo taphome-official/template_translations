@@ -16,3 +16,6 @@ pl:
     total_reactive_energy: 'Całkowita energia bierna'
     total_energy: 'Całkowita energia'
     grid_frequency: 'Częstotliwość sieci'
+    set_tarriffs: 'Ustaw taryfy'
+    hour: Godzina
+    minutes: Minuty

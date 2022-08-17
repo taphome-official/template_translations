@@ -16,3 +16,6 @@ cs:
     total_reactive_energy: 'Celková reaktivní energie'
     total_energy: 'Celková energie'
     grid_frequency: 'Frekvence sítě'
+    set_tarriffs: 'Nastavit tarify'
+    hour: Hodina
+    minutes: Minut

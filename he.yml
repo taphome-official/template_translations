@@ -16,3 +16,6 @@ he:
     total_reactive_energy: 'אנרגיה ריאקטיבית כוללת'
     total_energy: 'אנרגיה כוללת'
     grid_frequency: 'תדר רשת'
+    set_tarriffs: 'קבע תעריפים'
+    hour: שָׁעָה
+    minutes: דקות

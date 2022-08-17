@@ -16,3 +16,6 @@ sk:
     total_reactive_energy: 'Celková jalová energia'
     total_energy: 'Celková energia'
     grid_frequency: 'Frekvencia siete'
+    set_tarriffs: 'Nastaviť tarify'
+    hour: Hodina
+    minutes: Minúty

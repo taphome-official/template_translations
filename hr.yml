@@ -16,3 +16,6 @@ hr:
     total_reactive_energy: 'Ukupna reaktivna energija'
     total_energy: 'Ukupna energija'
     grid_frequency: 'Frekvencija mreže'
+    set_tarriffs: 'Postavite tarife'
+    hour: Sat
+    minutes: minuta

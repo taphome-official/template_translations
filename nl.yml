@@ -16,3 +16,6 @@ nl:
     total_reactive_energy: 'Totale reactieve energie'
     total_energy: 'Totale energie'
     grid_frequency: 'Netfrequentie:'
+    set_tarriffs: 'Tarieven instellen'
+    hour: Uur
+    minutes: Minuten

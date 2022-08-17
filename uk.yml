@@ -16,3 +16,6 @@ uk:
     total_reactive_energy: 'Загальна реактивна енергія'
     total_energy: 'Загальна енергія'
     grid_frequency: 'Частота сітки'
+    set_tarriffs: 'Встановити тарифи'
+    hour: годину
+    minutes: хвилин

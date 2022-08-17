@@ -16,3 +16,6 @@ fa:
     total_reactive_energy: 'کل انرژی راکتیو'
     total_energy: 'انرژی کل'
     grid_frequency: 'فرکانس شبکه'
+    set_tarriffs: 'تعیین تعرفه ها'
+    hour: ساعت
+    minutes: دقایق
