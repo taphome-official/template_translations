@@ -19,3 +19,4 @@ hu:
     set_tarriffs: 'Állítsa be a tarifákat'
     hour: Óra
     minutes: Percek
+    output_rate: 'kimeneti sebesség'

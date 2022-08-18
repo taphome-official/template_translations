@@ -19,3 +19,4 @@ nl:
     set_tarriffs: 'Tarieven instellen'
     hour: Uur
     minutes: Minuten
+    output_rate: 'uitvoersnelheid:'

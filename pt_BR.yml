@@ -19,3 +19,4 @@ pt_BR:
     set_tarriffs: 'Definir tarifas'
     hour: Hora
     minutes: Minutos
+    output_rate: 'taxa de saída'

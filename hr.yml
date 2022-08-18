@@ -19,3 +19,4 @@ hr:
     set_tarriffs: 'Postavite tarife'
     hour: Sat
     minutes: minuta
+    output_rate: 'izlazna stopa'

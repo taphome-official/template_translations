@@ -19,3 +19,4 @@ sk:
     set_tarriffs: 'Nastaviť tarify'
     hour: Hodina
     minutes: Minúty
+    output_rate: 'výstupná rýchlosť'
