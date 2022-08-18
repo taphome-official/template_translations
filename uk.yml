@@ -19,3 +19,4 @@ uk:
     set_tarriffs: 'Встановити тарифи'
     hour: годину
     minutes: хвилин
+    output_rate: 'вихідна швидкість'

@@ -19,3 +19,4 @@ el:
     set_tarriffs: 'Καθορισμός τιμολογίων'
     hour: Ωρα
     minutes: Λεπτά
+    output_rate: 'ρυθμός παραγωγής'

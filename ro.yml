@@ -19,3 +19,4 @@ ro:
     set_tarriffs: 'Stabiliți tarife'
     hour: Ora
     minutes: Minute
+    output_rate: 'rata de ieșire'

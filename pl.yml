@@ -19,3 +19,4 @@ pl:
     set_tarriffs: 'Ustaw taryfy'
     hour: Godzina
     minutes: Minuty
+    output_rate: 'szybkość wyjściowa'

@@ -19,3 +19,4 @@ fr:
     set_tarriffs: 'Fixer les tarifs'
     hour: Heure
     minutes: Minutes
+    output_rate: 'taux de sortie'

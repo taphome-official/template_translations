@@ -19,3 +19,4 @@ fa:
     set_tarriffs: 'تعیین تعرفه ها'
     hour: ساعت
     minutes: دقایق
+    output_rate: 'نرخ خروجی'

@@ -19,3 +19,4 @@ es:
     set_tarriffs: 'Establecer tarifas'
     hour: Hora
     minutes: Minutos
+    output_rate: 'Tasa de producción'

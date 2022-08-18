@@ -19,3 +19,4 @@ sl:
     set_tarriffs: 'Nastavite tarife'
     hour: Ura
     minutes: minute
+    output_rate: 'izhodna stopnja'

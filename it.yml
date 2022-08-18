@@ -19,3 +19,4 @@ it:
     set_tarriffs: 'Imposta le tariffe'
     hour: Ora
     minutes: Minuti
+    output_rate: 'tasso di uscita'

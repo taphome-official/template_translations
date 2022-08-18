@@ -19,3 +19,4 @@ cs:
     set_tarriffs: 'Nastavit tarify'
     hour: Hodina
     minutes: Minut
+    output_rate: 'výstupní rychlost'
