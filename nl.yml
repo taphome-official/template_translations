@@ -20,3 +20,77 @@ nl:
     hour: Uur
     minutes: Minuten
     output_rate: 'uitvoersnelheid:'
+    adress_error: Adresfout
+    comm_error_R1/R2: 'Communicatiefout op R1/R2'
+    tracking_error: 'Volg fout'
+    integ_od_unit_err: 'Fout geïntegreerde buitenunit'
+    comms_exist: 'Communicatie bestaat'
+    'yes': Ja
+    'no': Nee
+    comms_ready: 'Klaar voor communicatie'
+    comm_type: 'Communicatietype:'
+    defrost: Ontdooien
+    remote_restrict: 'Beperking afstandsbediening'
+    buzzer: Zoemer
+    not_Ok: 'Niet ok'
+    air_con: Airco
+    air_con_mode: Airconditionermodus
+    hot_water_mode: Warmwatermodus
+    fan: Fan
+    hot_water_operation: Warmwaterwerking
+    hot_water_temperature: Warmwatertemperatuur
+    quiet_control: 'Stille bediening'
+    away_function: 'Afwezig Functie'
+    not_supported: 'Niet ondersteund'
+    water_in_tempt: 'Temperatuur inkomend water'
+    water_out: 'Uitkomend water'
+    dc_arc_fault: DC-boogfout
+    afci_fault: AFCI-zelftestfout
+    short_circ_L-PE: 'Kortsluiting tussen fase naar PE'
+    power_grid_fail: Stroomnetstoring
+    grid_undervoltage: 'Net onderspanning'
+    grid_overvoltage: Netoverspanning
+    unbalanced_grid_V: 'Ongebalanceerde netspanning'
+    grid_overfrequency: Rasteroverfrequentie
+    grid_underfrequency: 'Raster onderfrequentie'
+    grid_freq_instability: 'Instabiliteit van netfrequentie'
+    output_overcurr: 'Uitgang overstroom'
+    out_DC_large: 'Grote gelijkstroom van uitgangsstroom'
+    abnorm_leak_curr: 'Abnormale lekstroom'
+    abnorm_gnd: 'Abnormale grond'
+    low_insul_res: 'Lage isolatieweerstand'
+    high_tempt: 'Hoge temperatuur'
+    abnorm_equip: 'Abnormale apparatuur'
+    upgrade_fail: 'Upgrade mislukt'
+    license_expired: 'Licentie verlopen'
+    abnorm_monitor_unit: 'Abnormale monitoreenheid'
+    power_collect_fault: 'Stroomafnemer fout'
+    abnorm_energy_storage_dev: 'Abnormaal energieopslagapparaat'
+    trans_AC_overvoltage: 'Voorbijgaande AC-overspanning'
+    abnorm_PV_module_config: 'Abnormale configuratie van PV-modules'
+    model_name: Modelnaam
+    number: nummer
+    system_time: Systeemtijd
+    time_zone: Tijdzone
+    inverter_efficiency: 'Omvormer efficiëntie'
+    cabinet_tempt: 'Kast temperatuur'
+    insul_res: 'Isolatieweerstand:'
+    dsp_data_coll: DSP-gegevensverzameling
+    act_pow_peak_thisday: 'Actief Vermogen piek van deze dag'
+    rated_pow: 'Nominaal vermogen:'
+    react_pow_compensation: 'Reactieve vermogenscompensatie'
+    act_pow_derating_%: 'Reductiepercentage actief vermogen'
+    active_pow_derating: 'Derating van actief vermogen'
+    max_act_pow: 'Maximaal actief vermogen'
+    max_apparent_pow: 'Maximaal schijnbaar vermogen'
+    max_reactive_pow_fedToGrid: 'Maximaal blindvermogen (aan het net)'
+    max_reactive_pow_absFromGrid: 'Maximaal reactief vermogen (opgenomen uit het net)'
+    energy_today: 'Energie vandaag'
+    input_pow: 'Ingangsvermogen:'
+    inverter_state: Omvormerstatus
+    initializing: Initialiseren
+    idle: Inactief
+    starting: Beginnend
+    dc_input_det: 'DC ingang detectie'
+    inspecting: Inspectie
+    current: 'elektrische stroom'

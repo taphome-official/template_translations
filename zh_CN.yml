@@ -20,3 +20,77 @@ zh_CN:
     hour: 小时
     minutes: 分钟
     output_rate: 输出率
+    adress_error: 地址错误
+    comm_error_R1/R2: 'R1/R2 上的通信错误'
+    tracking_error: 跟踪错误
+    integ_od_unit_err: 综合室外机错误
+    comms_exist: 沟通存在
+    'yes': 是的
+    'no': 不
+    comms_ready: 通讯就绪
+    comm_type: 通讯类型
+    defrost: 除霜
+    remote_restrict: 遥控限制
+    buzzer: 蜂鸣器
+    not_Ok: 不好
+    air_con: 冷气机
+    air_con_mode: 空调模式
+    hot_water_mode: 热水模式
+    fan: 扇子
+    hot_water_operation: 热水操作
+    hot_water_temperature: 热水温度
+    quiet_control: 静音控制
+    away_function: 离开功能
+    not_supported: 不支持
+    water_in_tempt: 进水温度
+    water_out: 出水
+    dc_arc_fault: 直流电弧故障
+    afci_fault: 'AFCI 自检故障'
+    short_circ_L-PE: '相与 PE 之间短路'
+    power_grid_fail: 电网故障
+    grid_undervoltage: 电网欠压
+    grid_overvoltage: 电网过电压
+    unbalanced_grid_V: 电网电压不平衡
+    grid_overfrequency: 电网过频
+    grid_underfrequency: 电网欠频
+    grid_freq_instability: 电网频率不稳定
+    output_overcurr: 输出过电流
+    out_DC_large: 输出电流大直流
+    abnorm_leak_curr: 异常漏电流
+    abnorm_gnd: 异常接地
+    low_insul_res: 低绝缘电阻
+    high_tempt: 高温
+    abnorm_equip: 异常设备
+    upgrade_fail: 升级失败
+    license_expired: 证件过期
+    abnorm_monitor_unit: 异常监控单元
+    power_collect_fault: 集电器故障
+    abnorm_energy_storage_dev: 储能装置异常
+    trans_AC_overvoltage: 瞬态交流过电压
+    abnorm_PV_module_config: 光伏组件配置异常
+    model_name: 型号名称
+    number: 数字
+    system_time: 系统时间
+    time_zone: 时区
+    inverter_efficiency: 逆变器效率
+    cabinet_tempt: 机柜温度
+    insul_res: 绝缘电阻
+    dsp_data_coll: DSP数据采集
+    act_pow_peak_thisday: 这一天的有功功率峰值
+    rated_pow: 额定功率
+    react_pow_compensation: 无功补偿
+    act_pow_derating_%: 有功功率降额百分比
+    active_pow_derating: 有功功率降额
+    max_act_pow: 最大有功功率
+    max_apparent_pow: 最大视在功率
+    max_reactive_pow_fedToGrid: 最大无功功率（馈入电网）
+    max_reactive_pow_absFromGrid: 最大无功功率（从电网吸收）
+    energy_today: 今日能源
+    input_pow: 输入功率
+    inverter_state: 逆变器状态
+    initializing: 初始化
+    idle: 闲置的
+    starting: 开始
+    dc_input_det: 直流输入检测
+    inspecting: 检查
+    current: 电流

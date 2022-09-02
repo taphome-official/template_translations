@@ -20,3 +20,77 @@ hu:
     hour: Óra
     minutes: Percek
     output_rate: 'kimeneti sebesség'
+    adress_error: 'Cím hiba'
+    comm_error_R1/R2: 'Kommunikációs hiba az R1/R2-n'
+    tracking_error: 'Követési hiba'
+    integ_od_unit_err: 'Integrált kültéri egység hiba'
+    comms_exist: 'Kommunikáció létezik'
+    'yes': Igen
+    'no': Nem
+    comms_ready: 'Kommunikáció kész'
+    comm_type: 'Kommunikációs típus'
+    defrost: Leolvasztani
+    remote_restrict: 'Távirányító korlátozás'
+    buzzer: Berregő
+    not_Ok: 'Nem oké'
+    air_con: Légkondícionáló
+    air_con_mode: 'Klíma üzemmód'
+    hot_water_mode: 'Melegvíz mód'
+    fan: Ventilátor
+    hot_water_operation: 'Melegvíz működés'
+    hot_water_temperature: 'Melegvíz hőmérséklet'
+    quiet_control: 'Csendes vezérlés'
+    away_function: 'Távolléti funkció'
+    not_supported: 'Nem támogatott'
+    water_in_tempt: 'Bejövő víz hőmérséklete'
+    water_out: 'Kilépő víz'
+    dc_arc_fault: 'DC ív hiba'
+    afci_fault: 'AFCI önteszt hiba'
+    short_circ_L-PE: 'Rövidzárlat a fázis és a PE között'
+    power_grid_fail: 'Áramhálózati hiba'
+    grid_undervoltage: 'Hálózati alulfeszültség'
+    grid_overvoltage: 'Hálózati túlfeszültség'
+    unbalanced_grid_V: 'Kiegyensúlyozatlan hálózati feszültség'
+    grid_overfrequency: 'Rács túlfrekvencia'
+    grid_underfrequency: 'Rács alulfrekvencia'
+    grid_freq_instability: 'A rácsfrekvencia instabilitása'
+    output_overcurr: 'Kimeneti túláram'
+    out_DC_large: 'Nagy DC kimeneti áram'
+    abnorm_leak_curr: 'Rendellenes szivárgó áram'
+    abnorm_gnd: 'Rendellenes talaj'
+    low_insul_res: 'Alacsony szigetelési ellenállás'
+    high_tempt: 'Magas hőmérsékletű'
+    abnorm_equip: 'Rendellenes felszerelés'
+    upgrade_fail: 'A frissítés nem sikerült'
+    license_expired: 'Engedély lejárt'
+    abnorm_monitor_unit: 'Rendellenes monitor egység'
+    power_collect_fault: 'Áramgyűjtő hiba'
+    abnorm_energy_storage_dev: 'Rendellenes energiatároló eszköz'
+    trans_AC_overvoltage: 'Tranziens váltakozó áramú túlfeszültség'
+    abnorm_PV_module_config: 'Rendellenes PV modul konfiguráció'
+    model_name: 'Modell név'
+    number: szám
+    system_time: Rendszeridő
+    time_zone: Időzóna
+    inverter_efficiency: 'Inverter hatékonyság'
+    cabinet_tempt: 'Szekrény hőmérséklete'
+    insul_res: 'Szigetelési ellenállás'
+    dsp_data_coll: 'DSP adatgyűjtés'
+    act_pow_peak_thisday: 'Aktív teljesítmény csúcsa ezen a napon'
+    rated_pow: 'Névleges teljesítmény'
+    react_pow_compensation: 'Meddő teljesítmény kompenzáció'
+    act_pow_derating_%: 'Aktív teljesítmény csökkentése százalék'
+    active_pow_derating: 'Aktív teljesítménycsökkentés'
+    max_act_pow: 'Maximális aktív teljesítmény'
+    max_apparent_pow: 'Maximális látszólagos teljesítmény'
+    max_reactive_pow_fedToGrid: 'Maximális meddő teljesítmény (hálózatra táplálva)'
+    max_reactive_pow_absFromGrid: 'Maximális meddőteljesítmény (hálózatról elnyelve)'
+    energy_today: 'Energia ma'
+    input_pow: 'Bemeneti teljesítmény'
+    inverter_state: 'Inverter állapota'
+    initializing: Inicializálás
+    idle: Tétlen
+    starting: Indulás
+    dc_input_det: 'DC bemenet észlelése'
+    inspecting: Ellenőrzés
+    current: 'elektromos áram'
