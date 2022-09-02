@@ -20,3 +20,77 @@ de:
     hour: Stunde
     minutes: Protokoll
     output_rate: Ausgaberate
+    adress_error: Adressfehler
+    comm_error_R1/R2: 'Kommunikationsfehler auf R1/R2'
+    tracking_error: Verfolgungsfehler
+    integ_od_unit_err: 'Fehler der integrierten Außeneinheit'
+    comms_exist: 'Kommunikation besteht'
+    'yes': Ja
+    'no': Nein
+    comms_ready: 'Kommunikation bereit'
+    comm_type: Kommunikationstyp
+    defrost: Auftauen
+    remote_restrict: 'Einschränkung der Fernbedienung'
+    buzzer: Summer
+    not_Ok: 'Nicht ok'
+    air_con: Klimaanlage
+    air_con_mode: Klimaanlagenmodus
+    hot_water_mode: Heißwassermodus
+    fan: Fan
+    hot_water_operation: Warmwasserbetrieb
+    hot_water_temperature: Warmwassertemperatur
+    quiet_control: 'Leise Kontrolle'
+    away_function: Abwesenheitsfunktion
+    not_supported: 'Nicht unterstützt'
+    water_in_tempt: 'Temperatur des einlaufenden Wassers'
+    water_out: 'Austretendes Wasser'
+    dc_arc_fault: DC-Lichtbogenfehler
+    afci_fault: AFCI-Selbsttestfehler
+    short_circ_L-PE: 'Kurzschluss zwischen Phase und PE'
+    power_grid_fail: 'Ausfall des Stromnetzes'
+    grid_undervoltage: Netzunterspannung
+    grid_overvoltage: Netzüberspannung
+    unbalanced_grid_V: 'Unausgeglichene Netzspannung'
+    grid_overfrequency: Netzüberfrequenz
+    grid_underfrequency: Netzunterfrequenz
+    grid_freq_instability: 'Instabilität der Netzfrequenz'
+    output_overcurr: 'Überstrom am Ausgang'
+    out_DC_large: 'Großer DC-Ausgangsstrom'
+    abnorm_leak_curr: 'Anormaler Leckstrom'
+    abnorm_gnd: 'Abnormaler Boden'
+    low_insul_res: 'Niedriger Isolationswiderstand'
+    high_tempt: 'Hohe Temperatur'
+    abnorm_equip: 'Abnormale Ausrüstung'
+    upgrade_fail: 'Upgrade fehlgeschlagen'
+    license_expired: 'Lizenz abgelaufen'
+    abnorm_monitor_unit: 'Abnormale Monitoreinheit'
+    power_collect_fault: Leistungskollektorfehler
+    abnorm_energy_storage_dev: 'Anormales Energiespeichergerät'
+    trans_AC_overvoltage: 'Transiente AC-Überspannung'
+    abnorm_PV_module_config: 'Abnormale Konfiguration des PV-Moduls'
+    model_name: Modellname
+    number: Nummer
+    system_time: Systemzeit
+    time_zone: Zeitzone
+    inverter_efficiency: Wechselrichter-Effizienz
+    cabinet_tempt: Schranktemperatur
+    insul_res: Isolationswiderstand
+    dsp_data_coll: DSP-Datenerfassung
+    act_pow_peak_thisday: 'Wirkleistungsspitze an diesem Tag'
+    rated_pow: Nennleistung
+    react_pow_compensation: Blindleistungskompensation
+    act_pow_derating_%: 'Wirkleistungsreduzierung in Prozent'
+    active_pow_derating: 'Reduzierung der Wirkleistung'
+    max_act_pow: 'Maximale Wirkleistung'
+    max_apparent_pow: 'Maximale Scheinleistung'
+    max_reactive_pow_fedToGrid: 'Maximale Blindleistung (Netzeinspeisung)'
+    max_reactive_pow_absFromGrid: 'Maximale Blindleistung (vom Netz aufgenommen)'
+    energy_today: 'Energie heute'
+    input_pow: Eingangsleistung
+    inverter_state: 'Zustand des Wechselrichters'
+    initializing: Initialisierung
+    idle: Leerlauf
+    starting: Beginnend
+    dc_input_det: DC-Eingangserkennung
+    inspecting: Inspektion
+    current: 'elektrischer Strom'

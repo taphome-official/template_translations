@@ -20,3 +20,77 @@ cs:
     hour: Hodina
     minutes: Minut
     output_rate: 'výstupní rychlost'
+    adress_error: 'Chyba adresy'
+    comm_error_R1/R2: 'Chyba komunikace na R1/R2'
+    tracking_error: 'Chyba sledování'
+    integ_od_unit_err: 'Chyba integrované venkovní jednotky'
+    comms_exist: 'Komunikace existuje'
+    'yes': Ano
+    'no': Ne
+    comms_ready: 'Komunikace připravena'
+    comm_type: 'Typ komunikace'
+    defrost: Rozmrazování
+    remote_restrict: 'Omezení dálkového ovládání'
+    buzzer: Bzučák
+    not_Ok: 'Není v pořádku'
+    air_con: Klimatizace
+    air_con_mode: 'Režim klimatizace'
+    hot_water_mode: 'Režim horké vody'
+    fan: Fanoušek
+    hot_water_operation: 'Provoz teplé vody'
+    hot_water_temperature: 'Teplota horké vody'
+    quiet_control: 'Tiché ovládání'
+    away_function: 'Funkce pryč'
+    not_supported: 'Není podporováno'
+    water_in_tempt: 'Teplota vstupní vody'
+    water_out: 'Odcházející voda'
+    dc_arc_fault: 'Porucha stejnosměrného oblouku'
+    afci_fault: 'Chyba autotestu AFCI'
+    short_circ_L-PE: 'Zkrat mezi fází a PE'
+    power_grid_fail: 'Selhání napájecí sítě'
+    grid_undervoltage: 'Podpětí sítě'
+    grid_overvoltage: 'Přepětí sítě'
+    unbalanced_grid_V: 'Nevyvážené síťové napětí'
+    grid_overfrequency: 'Nadfrekvence sítě'
+    grid_underfrequency: 'Nízká frekvence sítě'
+    grid_freq_instability: 'Nestabilita frekvence sítě'
+    output_overcurr: 'Výstupní nadproud'
+    out_DC_large: 'Velký stejnosměrný výstupní proud'
+    abnorm_leak_curr: 'Abnormální svodový proud'
+    abnorm_gnd: 'Abnormální půda'
+    low_insul_res: 'Nízký izolační odpor'
+    high_tempt: 'Vysoká teplota'
+    abnorm_equip: 'Abnormální vybavení'
+    upgrade_fail: 'Upgrade se nezdařil'
+    license_expired: 'Licence vypršela'
+    abnorm_monitor_unit: 'Abnormální monitorovací jednotka'
+    power_collect_fault: 'Porucha kolektoru napájení'
+    abnorm_energy_storage_dev: 'Abnormální zařízení pro ukládání energie'
+    trans_AC_overvoltage: 'Přechodné AC přepětí'
+    abnorm_PV_module_config: 'Abnormální konfigurace FV modulu'
+    model_name: 'Název modelu'
+    number: číslo
+    system_time: 'Systémový čas'
+    time_zone: 'Časové pásmo'
+    inverter_efficiency: 'Účinnost měniče'
+    cabinet_tempt: 'Teplota skříně'
+    insul_res: 'Izolační odpor'
+    dsp_data_coll: 'Sběr dat DSP'
+    act_pow_peak_thisday: 'Špička aktivního výkonu tohoto dne'
+    rated_pow: 'Jmenovitý výkon'
+    react_pow_compensation: 'Kompenzace jalového výkonu'
+    act_pow_derating_%: 'Procento snížení aktivního výkonu'
+    active_pow_derating: 'Odlehčení aktivního výkonu'
+    max_act_pow: 'Maximální aktivní výkon'
+    max_apparent_pow: 'Maximální zdánlivý výkon'
+    max_reactive_pow_fedToGrid: 'Maximální jalový výkon (napájený do sítě)'
+    max_reactive_pow_absFromGrid: 'Maximální jalový výkon (absorbovaný ze sítě)'
+    energy_today: 'Energie dnes'
+    input_pow: Příkon
+    inverter_state: 'Stav měniče'
+    initializing: Inicializace
+    idle: Líný
+    starting: Začíná
+    dc_input_det: 'Detekce DC vstupu'
+    inspecting: Inspekce
+    current: 'elektrický proud'

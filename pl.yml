@@ -20,3 +20,77 @@ pl:
     hour: Godzina
     minutes: Minuty
     output_rate: 'szybkość wyjściowa'
+    adress_error: 'Błąd adresu'
+    comm_error_R1/R2: 'Błąd komunikacji na R1/R2'
+    tracking_error: 'Błąd trakcji'
+    integ_od_unit_err: 'Błąd zintegrowanej jednostki zewnętrznej'
+    comms_exist: 'Komunikacja istnieje'
+    'yes': TAk
+    'no': Nie
+    comms_ready: 'Gotowość do komunikacji'
+    comm_type: 'Typ komunikacji'
+    defrost: Rozmrażać
+    remote_restrict: 'Ograniczenie pilota'
+    buzzer: Brzęczyk
+    not_Ok: 'Nie w porządku'
+    air_con: Klimatyzator
+    air_con_mode: 'Tryb klimatyzatora'
+    hot_water_mode: 'Tryb ciepłej wody'
+    fan: Miłośnik
+    hot_water_operation: 'Obsługa gorącej wody'
+    hot_water_temperature: 'Temperatura ciepłej wody'
+    quiet_control: 'Cicha kontrola'
+    away_function: 'Funkcja wyjazdu'
+    not_supported: Nieobsługiwany
+    water_in_tempt: 'Temperatura wody wpływającej'
+    water_out: 'Woda wypływająca'
+    dc_arc_fault: 'Zwarcie łuku DC'
+    afci_fault: 'Błąd autotestu AFCI'
+    short_circ_L-PE: 'Zwarcie między fazą a PE'
+    power_grid_fail: 'Awaria sieci energetycznej'
+    grid_undervoltage: 'Za niskie napięcie sieci'
+    grid_overvoltage: 'Przepięcie sieciowe'
+    unbalanced_grid_V: 'Niezrównoważone napięcie sieciowe'
+    grid_overfrequency: 'Nadczęstotliwość sieci'
+    grid_underfrequency: 'Podczęstotliwość sieci'
+    grid_freq_instability: 'Niestabilność częstotliwości sieci'
+    output_overcurr: 'Wyjście nadprądowe'
+    out_DC_large: 'Duży prąd stały prądu stałego'
+    abnorm_leak_curr: 'Nieprawidłowy prąd upływowy'
+    abnorm_gnd: 'Nieprawidłowa ziemia'
+    low_insul_res: 'Niska rezystancja izolacji'
+    high_tempt: 'Wysoka temperatura'
+    abnorm_equip: 'Nieprawidłowy sprzęt'
+    upgrade_fail: 'Aktualizacja nie powiodła się'
+    license_expired: 'Licencja wygasła'
+    abnorm_monitor_unit: 'Nieprawidłowa jednostka monitorująca'
+    power_collect_fault: 'Usterka kolektora zasilania'
+    abnorm_energy_storage_dev: 'Nieprawidłowe urządzenie magazynujące energię'
+    trans_AC_overvoltage: 'Przejściowe przepięcie AC'
+    abnorm_PV_module_config: 'Nieprawidłowa konfiguracja modułu fotowoltaicznego'
+    model_name: 'Nazwa modelu'
+    number: numer
+    system_time: 'Czas systemu'
+    time_zone: 'Strefa czasowa'
+    inverter_efficiency: 'Wydajność falownika'
+    cabinet_tempt: 'Temperatura szafki'
+    insul_res: 'Rezystancja izolacji'
+    dsp_data_coll: 'Zbieranie danych DSP'
+    act_pow_peak_thisday: 'Szczyt mocy czynnej tego dnia'
+    rated_pow: 'Moc znamionowa'
+    react_pow_compensation: 'Kompensacja mocy biernej'
+    act_pow_derating_%: 'Procent obniżenia mocy czynnej'
+    active_pow_derating: 'Obniżanie mocy czynnej'
+    max_act_pow: 'Maksymalna moc czynna'
+    max_apparent_pow: 'Maksymalna moc pozorna'
+    max_reactive_pow_fedToGrid: 'Maksymalna moc bierna (doprowadzona do sieci)'
+    max_reactive_pow_absFromGrid: 'Maksymalna moc bierna (pobierana z sieci)'
+    energy_today: 'Energia dzisiaj'
+    input_pow: 'Moc wejściowa'
+    inverter_state: 'Stan falownika'
+    initializing: Inicjowanie
+    idle: Bezczynny
+    starting: Startowy
+    dc_input_det: 'Wykrywanie wejścia DC'
+    inspecting: Kontrola
+    current: 'prąd elektryczny'
