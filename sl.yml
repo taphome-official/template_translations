@@ -94,3 +94,35 @@ sl:
     dc_input_det: 'Zaznavanje DC vhoda'
     inspecting: Inšpekcija
     current: 'električni tok'
+    switch: 'Digitalni izhod'
+    temperature: Temperatura
+    resi_dali_configuration: 'Resi DALI konfiguracija'
+    xml_slave_id: 'Slave ID'
+    xml_reset_gateway: 'Ponastavite prehod'
+    xml_set_slave_id: 'Nastavi Slave ID'
+    xml_turn_on_all_lamps: 'Prižgi vse luči'
+    xml_turn_off_all_lamps: 'Ugasni vse luči'
+    xml_find_new_devices: 'Poiščite nove naprave'
+    xml_start: Začetek
+    xml_scan_short_address: 'Skeniranje kratkih naslovov'
+    xml_reset_all_devices_to_default: 'Ponastavite vse naprave na privzete nastavitve'
+    xml_reset_short_addresses: 'Ponastavi kratke naslove'
+    xml_finish: Dokončaj
+    xml_short_address: 'Kratek naslov'
+    xml_device_type: 'Tip naprave'
+    xml_groups: Skupine
+    xml_add_to_group: 'Dodaj v skupino'
+    xml_remove_from_group: 'Odstrani iz skupine'
+    xml_reset_to_default_settings: 'Obnovi privzete nastavitve'
+    xml_set_startup_levels: 'Nastavite začetno vrednost glede na trenutno vrednost'
+    xml_add_to_group_all_lamps: 'Dodajte vse napeljave v skupino'
+    xml_group: skupina
+    xml_remove_from_group_all_lamps: 'Odstranite vse napeljave iz skupine'
+    xml_signal_strength: 'Moč signala'
+    xml_update_fw: 'Posodobitev vdelane programske opreme'
+    xml_led_indication_mode: 'Način LED indikacije'
+    xml_off: Izključeno
+    xml_power: Moč
+    xml_led_off_color: 'Barva LED (izklopljena)'
+    xml_led_on_color_copy: 'Barva LED (vklopljeno)'
+    xml_led_brightness_power_mode: 'Svetlost LED v načinu napajanja'

@@ -94,3 +94,35 @@ it:
     dc_input_det: 'Rilevamento ingresso CC'
     inspecting: Ispezione
     current: 'corrente elettrica'
+    switch: 'Output digitale'
+    temperature: Temperatura
+    resi_dali_configuration: 'Configurazione Resi DALI'
+    xml_slave_id: 'ID slave'
+    xml_reset_gateway: 'Ripristina il gateway'
+    xml_set_slave_id: 'Imposta ID slave'
+    xml_turn_on_all_lamps: 'Accendi tutte le luci'
+    xml_turn_off_all_lamps: 'Spegni tutte le luci'
+    xml_find_new_devices: 'Trova nuovi dispositivi'
+    xml_start: Inizio
+    xml_scan_short_address: 'Scansione di indirizzi brevi'
+    xml_reset_all_devices_to_default: 'Ripristina tutti i dispositivi alle impostazioni predefinite'
+    xml_reset_short_addresses: 'Reimposta indirizzi brevi'
+    xml_finish: Finitura
+    xml_short_address: 'Indirizzo breve'
+    xml_device_type: 'Tipo di dispositivo'
+    xml_groups: Gruppi
+    xml_add_to_group: 'Aggiungi al gruppo'
+    xml_remove_from_group: 'Rimuovi dal gruppo'
+    xml_reset_to_default_settings: 'Ripristina le impostazioni di default'
+    xml_set_startup_levels: 'Impostare il valore iniziale in base al valore corrente'
+    xml_add_to_group_all_lamps: 'Aggiungi tutti i dispositivi a un gruppo'
+    xml_group: Gruppo
+    xml_remove_from_group_all_lamps: 'Rimuovi tutti i dispositivi dal gruppo'
+    xml_signal_strength: 'La potenza del segnale'
+    xml_update_fw: 'Aggiornamento del firmware'
+    xml_led_indication_mode: 'Modalità di indicazione LED'
+    xml_off: Spento
+    xml_power: Energia
+    xml_led_off_color: 'Colore LED (spento)'
+    xml_led_on_color_copy: 'Colore LED (acceso)'
+    xml_led_brightness_power_mode: 'Luminosità del LED in modalità di alimentazione'

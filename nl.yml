@@ -94,3 +94,35 @@ nl:
     dc_input_det: 'DC ingang detectie'
     inspecting: Inspectie
     current: 'elektrische stroom'
+    switch: 'Digitale uitgang'
+    temperature: Temperatuur
+    resi_dali_configuration: 'Resi DALI-configuratie'
+    xml_slave_id: 'Slave ID'
+    xml_reset_gateway: 'Stel de poort opnieuw in'
+    xml_set_slave_id: 'Instellen Slave ID'
+    xml_turn_on_all_lamps: 'Doe alle lichten aan'
+    xml_turn_off_all_lamps: 'Doe alle lichten uit'
+    xml_find_new_devices: 'Vind nieuwe apparaten'
+    xml_start: Begin
+    xml_scan_short_address: 'Scannen van korte adressen'
+    xml_reset_all_devices_to_default: 'Reset alle apparaten naar de standaardinstellingen'
+    xml_reset_short_addresses: 'Reset korte adressen'
+    xml_finish: Voltooien
+    xml_short_address: 'Kort adres'
+    xml_device_type: 'Soort apparaat'
+    xml_groups: groepen
+    xml_add_to_group: 'Aan groep toevoegen'
+    xml_remove_from_group: 'Verwijder uit de groep'
+    xml_reset_to_default_settings: 'Standaard instellingen terugzetten'
+    xml_set_startup_levels: 'Stel de startwaarde in volgens de huidige waarde'
+    xml_add_to_group_all_lamps: 'Voeg alle armaturen toe aan een groep'
+    xml_group: Groep
+    xml_remove_from_group_all_lamps: 'Verwijder alle armaturen uit de groep'
+    xml_signal_strength: 'De signaalsterkte'
+    xml_update_fw: 'Firmware bijwerken'
+    xml_led_indication_mode: LED-indicatiemodus
+    xml_off: Uit
+    xml_power: Stroom
+    xml_led_off_color: 'LED-kleur (uit)'
+    xml_led_on_color_copy: 'LED-kleur (aan)'
+    xml_led_brightness_power_mode: 'LED-helderheid in power-modus'

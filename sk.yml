@@ -94,3 +94,35 @@ sk:
     dc_input_det: 'Detekcia DC vstupu'
     inspecting: Inšpekcia
     current: 'elektrický prúd'
+    switch: 'Digitálny výstup'
+    temperature: Teplota
+    resi_dali_configuration: 'Resi DALI konfigurácia'
+    xml_slave_id: 'Slave ID'
+    xml_reset_gateway: 'Resetovať bránu'
+    xml_set_slave_id: 'Nastaviť Slave ID'
+    xml_turn_on_all_lamps: 'Zapnúť všetky svietidlá'
+    xml_turn_off_all_lamps: 'Vypnúť všetky svietidlá'
+    xml_find_new_devices: 'Vyhľadať nové zariadenia'
+    xml_start: Štart
+    xml_scan_short_address: 'Skenovanie krátkych adries'
+    xml_reset_all_devices_to_default: 'Resetovať všetky zariadenia na východzie nastavenia'
+    xml_reset_short_addresses: 'Resetovať krátke adresy'
+    xml_finish: Dokončiť
+    xml_short_address: 'Krátka adresa'
+    xml_device_type: 'Typ zariadenia'
+    xml_groups: Skupiny
+    xml_add_to_group: 'Pridať do skupiny'
+    xml_remove_from_group: 'Odobrať zo skupiny'
+    xml_reset_to_default_settings: 'Obnoviť východzie nastavenia'
+    xml_set_startup_levels: 'Nastaviť štartovaciu hodnotu podľa súčasnej hodnoty'
+    xml_add_to_group_all_lamps: 'Pridať všetky svietidlá do skupiny'
+    xml_group: Skupina
+    xml_remove_from_group_all_lamps: 'Odstrániť všetky svietidlá zo skupiny'
+    xml_signal_strength: 'Sila signálu'
+    xml_update_fw: 'Aktualizácia firmvéru'
+    xml_led_indication_mode: 'Režim LED indikácie'
+    xml_off: Vypnuté
+    xml_power: Výkon
+    xml_led_off_color: 'Farba LED (Vypnuté)'
+    xml_led_on_color_copy: 'Farba LED (Zapnuté)'
+    xml_led_brightness_power_mode: 'Jas LED v režime výkonu'

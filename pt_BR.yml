@@ -94,3 +94,35 @@ pt_BR:
     dc_input_det: 'Detecção de entrada DC'
     inspecting: Inspeção
     current: 'corrente elétrica'
+    switch: 'Saída digital'
+    temperature: Temperatura
+    resi_dali_configuration: 'Configuração Resi DALI'
+    xml_slave_id: 'ID do escravo'
+    xml_reset_gateway: 'Redefinir o gateway'
+    xml_set_slave_id: 'Definir ID do escravo'
+    xml_turn_on_all_lamps: 'Acenda todas as luzes'
+    xml_turn_off_all_lamps: 'Desligue todas as luzes'
+    xml_find_new_devices: 'Encontrar novos dispositivos'
+    xml_start: Começar
+    xml_scan_short_address: 'Escaneamento de endereços curtos'
+    xml_reset_all_devices_to_default: 'Redefinir todos os dispositivos para as configurações padrão'
+    xml_reset_short_addresses: 'Redefinir endereços curtos'
+    xml_finish: Terminar
+    xml_short_address: 'endereço curto'
+    xml_device_type: 'Tipo do dispositivo'
+    xml_groups: Grupos
+    xml_add_to_group: 'Adicionar ao grupo'
+    xml_remove_from_group: 'Remover do grupo'
+    xml_reset_to_default_settings: 'Restaurar a configuração original'
+    xml_set_startup_levels: 'Defina o valor inicial de acordo com o valor atual'
+    xml_add_to_group_all_lamps: 'Adicionar todos os equipamentos a um grupo'
+    xml_group: Grupo
+    xml_remove_from_group_all_lamps: 'Remova todos os acessórios do grupo'
+    xml_signal_strength: 'Sinal de força'
+    xml_update_fw: 'Atualizar firmware'
+    xml_led_indication_mode: 'Modo de indicação de LED'
+    xml_off: Desligado
+    xml_power: Poder
+    xml_led_off_color: 'Cor do LED (desligado)'
+    xml_led_on_color_copy: 'Cor do LED (ligado)'
+    xml_led_brightness_power_mode: 'Brilho do LED no modo de energia'

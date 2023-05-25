@@ -94,3 +94,35 @@ ar:
     dc_input_det: 'كشف مدخلات التيار المستمر'
     inspecting: تكمن
     current: 'التيار الكهربائي'
+    switch: 'الإخراج الرقمي'
+    temperature: 'درجة الحرارة'
+    resi_dali_configuration: 'تكوين Resi DALI'
+    xml_slave_id: 'معرف الرقيق'
+    xml_reset_gateway: 'أعد ضبط البوابة'
+    xml_set_slave_id: 'تعيين معرف الرقيق'
+    xml_turn_on_all_lamps: 'قم بتشغيل جميع الأضواء'
+    xml_turn_off_all_lamps: 'إطفاء كل الأضواء'
+    xml_find_new_devices: 'البحث عن أجهزة جديدة'
+    xml_start: يبدأ
+    xml_scan_short_address: 'مسح العناوين القصيرة'
+    xml_reset_all_devices_to_default: 'إعادة تعيين جميع الأجهزة إلى الإعدادات الافتراضية'
+    xml_reset_short_addresses: 'إعادة تعيين العناوين القصيرة'
+    xml_finish: إنهاء
+    xml_short_address: 'عنوان قصير'
+    xml_device_type: 'نوع الجهاز'
+    xml_groups: مجموعات
+    xml_add_to_group: 'إضافة إلى المجموعة'
+    xml_remove_from_group: 'إزالة من المجموعة'
+    xml_reset_to_default_settings: 'استعادة الإعدادات الافتراضية'
+    xml_set_startup_levels: 'اضبط قيمة البداية وفقًا للقيمة الحالية'
+    xml_add_to_group_all_lamps: 'أضف جميع المباريات إلى مجموعة'
+    xml_group: مجموعة
+    xml_remove_from_group_all_lamps: 'إزالة جميع المباريات من المجموعة'
+    xml_signal_strength: 'قوة الاشارة'
+    xml_update_fw: 'تحديث البرامج الثابتة'
+    xml_led_indication_mode: 'وضع مؤشر LED'
+    xml_off: عن
+    xml_power: قوة
+    xml_led_off_color: 'لون LED (مطفأ)'
+    xml_led_on_color_copy: 'لون LED (تشغيل)'
+    xml_led_brightness_power_mode: 'سطوع LED في وضع الطاقة'

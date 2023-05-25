@@ -94,3 +94,35 @@ ru:
     dc_input_det: 'Обнаружение входа постоянного тока'
     inspecting: осмотр
     current: 'электрический ток'
+    switch: 'Цифровой выход'
+    temperature: Температура
+    resi_dali_configuration: 'Конфигурация Resi DALI'
+    xml_slave_id: 'Ведомый идентификатор'
+    xml_reset_gateway: 'Сбросить шлюз'
+    xml_set_slave_id: 'Установить Ведомый идентификатор'
+    xml_turn_on_all_lamps: 'Включите все огни'
+    xml_turn_off_all_lamps: 'Выключите все огни'
+    xml_find_new_devices: 'Найти новые устройства'
+    xml_start: Начинать
+    xml_scan_short_address: 'Сканирование коротких адресов'
+    xml_reset_all_devices_to_default: 'Сбросить все устройства к настройкам по умолчанию'
+    xml_reset_short_addresses: 'Сбросить короткие адреса'
+    xml_finish: Готово
+    xml_short_address: 'Короткий адрес'
+    xml_device_type: 'Тип устройства'
+    xml_groups: Группы
+    xml_add_to_group: 'Добавить в группу'
+    xml_remove_from_group: 'Удалить из группы'
+    xml_reset_to_default_settings: 'Восстановить настройки по умолчанию'
+    xml_set_startup_levels: 'Установите начальное значение в соответствии с текущим значением'
+    xml_add_to_group_all_lamps: 'Добавить все приборы в группу'
+    xml_group: Группа
+    xml_remove_from_group_all_lamps: 'Удалить все приборы из группы'
+    xml_signal_strength: 'Сила сигнала'
+    xml_update_fw: 'Обновление микропрограммы'
+    xml_led_indication_mode: 'Режим светодиодной индикации'
+    xml_off: Выключенный
+    xml_power: Власть
+    xml_led_off_color: 'Цвет светодиода (Выкл.)'
+    xml_led_on_color_copy: 'Цвет светодиода (вкл.)'
+    xml_led_brightness_power_mode: 'Яркость светодиода в режиме питания'
