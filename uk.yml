@@ -94,3 +94,35 @@ uk:
     dc_input_det: 'Виявлення входу постійного струму'
     inspecting: Огляд
     current: 'електричний струм'
+    switch: 'Цифровий вихід'
+    temperature: Температура
+    resi_dali_configuration: 'Конфігурація Resi DALI'
+    xml_slave_id: 'Ідентифікатор раба'
+    xml_reset_gateway: 'Скинути шлюз'
+    xml_set_slave_id: 'Установити Ідентифікатор раба'
+    xml_turn_on_all_lamps: 'Увімкніть усі лампочки'
+    xml_turn_off_all_lamps: 'Вимкніть усе світло'
+    xml_find_new_devices: 'Пошук нових пристроїв'
+    xml_start: старт
+    xml_scan_short_address: 'Сканування коротких адрес'
+    xml_reset_all_devices_to_default: 'Скинути всі пристрої до налаштувань за замовчуванням'
+    xml_reset_short_addresses: 'Скинути короткі адреси'
+    xml_finish: Готово
+    xml_short_address: 'Коротка адреса'
+    xml_device_type: 'Тип пристрою'
+    xml_groups: Групи
+    xml_add_to_group: 'Додати до групи'
+    xml_remove_from_group: 'Видалити з групи'
+    xml_reset_to_default_settings: 'Відновити налаштування за замовчуванням'
+    xml_set_startup_levels: 'Встановіть початкове значення відповідно до поточного значення'
+    xml_add_to_group_all_lamps: 'Додайте всі світильники до групи'
+    xml_group: Група
+    xml_remove_from_group_all_lamps: 'Видалити всі світильники з групи'
+    xml_signal_strength: 'Сила сигналу'
+    xml_update_fw: 'Оновлення прошивки'
+    xml_led_indication_mode: 'Режим світлодіодної індикації'
+    xml_off: Вимкнено
+    xml_power: потужність
+    xml_led_off_color: 'Колір світлодіода (вимк.)'
+    xml_led_on_color_copy: 'Колір світлодіода (увімк.)'
+    xml_led_brightness_power_mode: 'Яскравість світлодіода в режимі живлення'

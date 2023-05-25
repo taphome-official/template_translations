@@ -94,3 +94,35 @@ pl:
     dc_input_det: 'Wykrywanie wejścia DC'
     inspecting: Kontrola
     current: 'prąd elektryczny'
+    switch: 'Wyjście cyfrowe'
+    temperature: Temperatura
+    resi_dali_configuration: 'Konfiguracja Resi DALI'
+    xml_slave_id: 'Identyfikator urządzenia podrzędnego'
+    xml_reset_gateway: 'Zresetuj bramkę'
+    xml_set_slave_id: 'Ustaw Identyfikator urządzenia podrzędnego'
+    xml_turn_on_all_lamps: 'Włącz wszystkie światła'
+    xml_turn_off_all_lamps: 'Wyłącz wszystkie światła'
+    xml_find_new_devices: 'Naucz nowych urządzeń'
+    xml_start: Początek
+    xml_scan_short_address: 'Skanowanie krótkich adresów'
+    xml_reset_all_devices_to_default: 'Zresetuj wszystkie urządzenia do ustawień domyślnych'
+    xml_reset_short_addresses: 'Zresetuj krótkie adresy'
+    xml_finish: Zakończ
+    xml_short_address: 'Krótki adres'
+    xml_device_type: 'Typ urządzenia'
+    xml_groups: Grupy
+    xml_add_to_group: 'Dodaj do grupy'
+    xml_remove_from_group: 'Usuń z grupy'
+    xml_reset_to_default_settings: 'Przywróć ustawienia domyślne'
+    xml_set_startup_levels: 'Ustaw wartość początkową zgodnie z aktualną wartością'
+    xml_add_to_group_all_lamps: 'Dodaj wszystkie urządzenia do grupy'
+    xml_group: Grupa
+    xml_remove_from_group_all_lamps: 'Usuń wszystkie urządzenia z grupy'
+    xml_signal_strength: 'Siła sygnału'
+    xml_update_fw: 'Aktualizacja oprogramowania'
+    xml_led_indication_mode: 'Tryb sygnalizacji LED'
+    xml_off: Wyłączony
+    xml_power: Moc
+    xml_led_off_color: 'Kolor diody LED (Wył.)'
+    xml_led_on_color_copy: 'Kolor diody LED (wł.)'
+    xml_led_brightness_power_mode: 'Jasność diody LED w trybie zasilania'

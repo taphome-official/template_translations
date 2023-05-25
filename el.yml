@@ -94,3 +94,35 @@ el:
     dc_input_det: 'Ανίχνευση εισόδου DC'
     inspecting: Επιθεώρηση
     current: 'ηλεκτρικό ρεύμα'
+    switch: 'Ψηφιακή έξοδος'
+    temperature: θερμοκρασία
+    resi_dali_configuration: 'Διαμόρφωση Resi DALI'
+    xml_slave_id: 'Αναγνωριστικό σκλάβου'
+    xml_reset_gateway: 'Επαναφέρετε την πύλη'
+    xml_set_slave_id: 'Ορισμός Αναγνωριστικό σκλάβου'
+    xml_turn_on_all_lamps: 'Ανάψτε όλα τα φώτα'
+    xml_turn_off_all_lamps: 'Σβήστε όλα τα φώτα'
+    xml_find_new_devices: 'Εύρεση νέων συσκευών'
+    xml_start: Αρχή
+    xml_scan_short_address: 'Σάρωση σύντομων διευθύνσεων'
+    xml_reset_all_devices_to_default: 'Επαναφέρετε όλες τις συσκευές στις προεπιλεγμένες ρυθμίσεις'
+    xml_reset_short_addresses: 'Επαναφορά σύντομων διευθύνσεων'
+    xml_finish: Φινίρισμα
+    xml_short_address: 'Σύντομη διεύθυνση'
+    xml_device_type: 'Τύπος συσκευής'
+    xml_groups: Ομάδες
+    xml_add_to_group: 'Προσθήκη στην ομάδα'
+    xml_remove_from_group: 'Αφαίρεση από την ομάδα'
+    xml_reset_to_default_settings: 'Επαναφορά αρχικών ρυθμίσεων'
+    xml_set_startup_levels: 'Ορίστε την αρχική τιμή σύμφωνα με την τρέχουσα τιμή'
+    xml_add_to_group_all_lamps: 'Προσθέστε όλα τα παιχνίδια σε μια ομάδα'
+    xml_group: Ομάδα
+    xml_remove_from_group_all_lamps: 'Αφαιρέστε όλα τα φωτιστικά από την ομάδα'
+    xml_signal_strength: 'Ισχύς σήματος'
+    xml_update_fw: 'Ενημέρωση υλικολογισμικού'
+    xml_led_indication_mode: 'Λειτουργία ένδειξης LED'
+    xml_off: 'Μακριά από'
+    xml_power: Εξουσία
+    xml_led_off_color: 'Χρώμα LED (Απενεργοποιημένο)'
+    xml_led_on_color_copy: 'Χρώμα LED (Ενεργό)'
+    xml_led_brightness_power_mode: 'Φωτεινότητα LED σε λειτουργία τροφοδοσίας'

@@ -94,3 +94,35 @@ fr:
     dc_input_det: 'Détection d''entrée CC'
     inspecting: Inspection
     current: 'courant électrique'
+    switch: 'Sortie numérique'
+    temperature: Température
+    resi_dali_configuration: 'Configuration Resi DALI'
+    xml_slave_id: 'ID esclave'
+    xml_reset_gateway: 'Réinitialiser la passerelle'
+    xml_set_slave_id: 'Définir ID esclave'
+    xml_turn_on_all_lamps: 'Allumez toutes les lumières'
+    xml_turn_off_all_lamps: 'Éteignez toutes les lumières'
+    xml_find_new_devices: 'Trouver de nouveaux appareils'
+    xml_start: Commencer
+    xml_scan_short_address: 'Numérisation d''adresses courtes'
+    xml_reset_all_devices_to_default: 'Réinitialiser tous les appareils aux paramètres par défaut'
+    xml_reset_short_addresses: 'Réinitialiser les adresses courtes'
+    xml_finish: terminer
+    xml_short_address: 'Adresse courte'
+    xml_device_type: 'Type d''appareil'
+    xml_groups: Groupes
+    xml_add_to_group: 'Ajouter au groupe'
+    xml_remove_from_group: 'Supprimer du groupe'
+    xml_reset_to_default_settings: 'Restaurer les paramètres par défaut'
+    xml_set_startup_levels: 'Réglez la valeur de départ en fonction de la valeur actuelle'
+    xml_add_to_group_all_lamps: 'Ajouter tous les projecteurs à un groupe'
+    xml_group: Groupe
+    xml_remove_from_group_all_lamps: 'Supprimer tous les luminaires du groupe'
+    xml_signal_strength: 'Force du signal'
+    xml_update_fw: 'Mise à jour du firmware'
+    xml_led_indication_mode: 'Mode d''indication LED'
+    xml_off: Désactivé
+    xml_power: Pouvoir
+    xml_led_off_color: 'Couleur du voyant (éteint)'
+    xml_led_on_color_copy: 'Couleur du voyant (allumé)'
+    xml_led_brightness_power_mode: 'Luminosité des LED en mode d''alimentation'

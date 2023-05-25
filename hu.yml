@@ -94,3 +94,35 @@ hu:
     dc_input_det: 'DC bemenet észlelése'
     inspecting: Ellenőrzés
     current: 'elektromos áram'
+    switch: 'Digitális kimenet'
+    temperature: Hőfok
+    resi_dali_configuration: 'Resi DALI konfiguráció'
+    xml_slave_id: 'Slave ID'
+    xml_reset_gateway: 'Állítsa vissza az átjárót'
+    xml_set_slave_id: 'Slave ID beállítása'
+    xml_turn_on_all_lamps: 'Kapcsolja fel az összes lámpát'
+    xml_turn_off_all_lamps: 'Kapcsoljon le minden lámpát'
+    xml_find_new_devices: 'Új eszközök keresése'
+    xml_start: Rajt
+    xml_scan_short_address: 'Rövid címek beolvasása'
+    xml_reset_all_devices_to_default: 'Állítsa vissza az összes eszközt az alapértelmezett beállításokra'
+    xml_reset_short_addresses: 'Állítsa vissza a rövid címeket'
+    xml_finish: Befejezés
+    xml_short_address: 'Rövid cím'
+    xml_device_type: 'Eszköz típus'
+    xml_groups: csoportok
+    xml_add_to_group: 'Hozzáadás a csoporthoz'
+    xml_remove_from_group: 'Eltávolítás a csoportból'
+    xml_reset_to_default_settings: 'Visszaállítja az alapértelmezett beállításokat'
+    xml_set_startup_levels: 'Állítsa be a kezdő értéket az aktuális értéknek megfelelően'
+    xml_add_to_group_all_lamps: 'Az összes rögzítőelem hozzáadása egy csoporthoz'
+    xml_group: Csoport
+    xml_remove_from_group_all_lamps: 'Távolítson el minden szerelvényt a csoportból'
+    xml_signal_strength: Jelerősség
+    xml_update_fw: 'Frissítse a firmware-t'
+    xml_led_indication_mode: 'LED jelzés mód'
+    xml_off: Ki
+    xml_power: Erő
+    xml_led_off_color: 'LED színe (ki)'
+    xml_led_on_color_copy: 'LED szín (Be)'
+    xml_led_brightness_power_mode: 'LED fényerő energia üzemmódban'

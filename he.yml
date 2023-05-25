@@ -94,3 +94,35 @@ he:
     dc_input_det: 'זיהוי קלט DC'
     inspecting: בְּדִיקָה
     current: 'זרם חשמלי'
+    switch: 'פלט דיגיטלי'
+    temperature: טֶמפֶּרָטוּרָה
+    resi_dali_configuration: 'תצורת Resi DALI'
+    xml_slave_id: 'תעודת עבדים'
+    xml_reset_gateway: 'אפס את השער'
+    xml_set_slave_id: 'הגדר תעודת עבדים'
+    xml_turn_on_all_lamps: 'הדלק את כל האורות'
+    xml_turn_off_all_lamps: 'כבה את כל האורות'
+    xml_find_new_devices: 'מצא מכשירים חדשים'
+    xml_start: הַתחָלָה
+    xml_scan_short_address: 'סריקת כתובות קצרות'
+    xml_reset_all_devices_to_default: 'אפס את כל המכשירים להגדרות ברירת המחדל'
+    xml_reset_short_addresses: 'אפס כתובות קצרות'
+    xml_finish: סיום
+    xml_short_address: 'כתובת קצרה'
+    xml_device_type: 'סוג מכשיר'
+    xml_groups: קבוצות
+    xml_add_to_group: 'הוסף לקבוצה'
+    xml_remove_from_group: 'הסר מהקבוצה'
+    xml_reset_to_default_settings: 'שחזר הגדרות ברירת מחדל'
+    xml_set_startup_levels: 'הגדר את ערך ההתחלה בהתאם לערך הנוכחי'
+    xml_add_to_group_all_lamps: 'הוסף את כל המתקנים לקבוצה'
+    xml_group: קְבוּצָה
+    xml_remove_from_group_all_lamps: 'הסר את כל המתקנים מהקבוצה'
+    xml_signal_strength: 'עוצמת אות'
+    xml_update_fw: 'עדכן קושחה'
+    xml_led_indication_mode: 'מצב חיווי LED'
+    xml_off: כבוי
+    xml_power: כּוֹחַ
+    xml_led_off_color: 'צבע LED (כבוי)'
+    xml_led_on_color_copy: 'צבע LED (מופעל)'
+    xml_led_brightness_power_mode: 'בהירות LED במצב הפעלה'

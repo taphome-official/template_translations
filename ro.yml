@@ -94,3 +94,35 @@ ro:
     dc_input_det: 'Detectare intrare DC'
     inspecting: Inspecţie
     current: 'curent electric'
+    switch: 'Ieșire digitală'
+    temperature: Temperatura
+    resi_dali_configuration: 'Configurare Resi DALI'
+    xml_slave_id: 'ID Slave'
+    xml_reset_gateway: 'Resetați gateway-ul'
+    xml_set_slave_id: 'Setați ID Slave'
+    xml_turn_on_all_lamps: 'Aprindeți toate luminile'
+    xml_turn_off_all_lamps: 'Stinge toate luminile'
+    xml_find_new_devices: 'Pregătire dispozitive noi'
+    xml_start: start
+    xml_scan_short_address: 'Scanarea adreselor scurte'
+    xml_reset_all_devices_to_default: 'Resetați toate dispozitivele la setările implicite'
+    xml_reset_short_addresses: 'Resetați adresele scurte'
+    xml_finish: Terminat
+    xml_short_address: 'Adresă scurtă'
+    xml_device_type: 'Tip dispozitiv '
+    xml_groups: Grupuri
+    xml_add_to_group: 'Adăugați la grup'
+    xml_remove_from_group: 'Eliminați din grup'
+    xml_reset_to_default_settings: 'Restabilește setările implicite'
+    xml_set_startup_levels: 'Setați valoarea de pornire în funcție de valoarea curentă'
+    xml_add_to_group_all_lamps: 'Adăugați toate dispozitivele la un grup'
+    xml_group: grup
+    xml_remove_from_group_all_lamps: 'Eliminați toate dispozitivele din grup'
+    xml_signal_strength: 'Puterea semnalului'
+    xml_update_fw: 'Actualizarea firmware-ului'
+    xml_led_indication_mode: 'Modul de indicare LED'
+    xml_off: Oprit
+    xml_power: Putere
+    xml_led_off_color: 'Culoare LED (Dezactivat)'
+    xml_led_on_color_copy: 'Culoare LED (pornit)'
+    xml_led_brightness_power_mode: 'Luminozitatea LED-ului în modul de alimentare'

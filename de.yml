@@ -94,3 +94,35 @@ de:
     dc_input_det: DC-Eingangserkennung
     inspecting: Inspektion
     current: 'elektrischer Strom'
+    switch: 'Digitaler Ausgang'
+    temperature: Temperatur
+    resi_dali_configuration: 'Resi DALI-Konfiguration'
+    xml_slave_id: 'Slave ID'
+    xml_reset_gateway: 'Setzen Sie das Gateway zurück'
+    xml_set_slave_id: 'Slave ID festlegen'
+    xml_turn_on_all_lamps: 'Schalten Sie alle Lichter ein'
+    xml_turn_off_all_lamps: 'Schalten Sie alle Lichter aus'
+    xml_find_new_devices: 'Neue Geräte finden'
+    xml_start: Start
+    xml_scan_short_address: 'Scannen von Kurzadressen'
+    xml_reset_all_devices_to_default: 'Setzen Sie alle Geräte auf die Standardeinstellungen zurück'
+    xml_reset_short_addresses: 'Kurzadressen zurücksetzen'
+    xml_finish: Beenden
+    xml_short_address: 'Kurze Adresse'
+    xml_device_type: Geräteart
+    xml_groups: Gruppen
+    xml_add_to_group: 'Zur Gruppe hinzufügen'
+    xml_remove_from_group: 'Aus der Gruppe entfernen'
+    xml_reset_to_default_settings: 'Standardeinstellungen wiederherstellen'
+    xml_set_startup_levels: 'Stellen Sie den Startwert entsprechend dem aktuellen Wert ein'
+    xml_add_to_group_all_lamps: 'Fügen Sie alle Geräte einer Gruppe hinzu'
+    xml_group: Gruppe
+    xml_remove_from_group_all_lamps: 'Entfernen Sie alle Fixtures aus der Gruppe'
+    xml_signal_strength: Signalstärke
+    xml_update_fw: 'Firmware aktualisieren'
+    xml_led_indication_mode: LED-Anzeigemodus
+    xml_off: Aus
+    xml_power: Leistung
+    xml_led_off_color: 'LED-Farbe (Aus)'
+    xml_led_on_color_copy: 'LED-Farbe (Ein)'
+    xml_led_brightness_power_mode: 'LED-Helligkeit im Power-Modus'
